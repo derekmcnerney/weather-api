@@ -1,0 +1,32 @@
+.list-group-item.disabled, .list-group-item:disabled {
+    /* color: #6c757d; */
+    pointer-events: all;
+    /* background-color: #fff; */
+}
+
+.btn-info {
+    background-image:linear-gradient(to left, blue, white);
+}
+
+body {
+    background-color: black;
+    background-image: linear-gradient(black);
+    justify-content: center;
+    color:hotpink
+}
+
+#weather {
+    width: 100%;
+}
+
+.head {
+    font-weight: bold;
+    border: 1px solid #f18e8e;
+    background: black;
+
+}
+
+.cell {
+    border: 1px solid #c2ba3c;
+    background: #f8ffde;
+}
